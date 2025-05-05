@@ -72,7 +72,7 @@ are critical for success.
 >+ Favorite button
 >+ Responsive layout
 
-##Footer
+3. Footer
 
 >+ Site links
 >+ Company information
