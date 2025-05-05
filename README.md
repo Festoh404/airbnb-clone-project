@@ -1,3 +1,13 @@
+A full-stack clone of the popular accommodation booking platform AirBnB. The goal is to build a functional web application that allows users to browse property listings, view detailed property information, and complete bookings.
+
+# Project Goals
++ Understand the project scope.
++ Identify key features to be implemented.
++ Adhere to designated timelines and milestones.
++ Utilize the necessary tools and technologies.
++ Fulfill your roles and responsibilities within the project.
+
+
 # UI/UX Design Planning
 ## Design Goals
 + Create intuitive booking flow
