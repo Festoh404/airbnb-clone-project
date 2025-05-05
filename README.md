@@ -7,6 +7,10 @@ A full-stack clone of the popular accommodation booking platform AirBnB. The goa
 + Utilize the necessary tools and technologies.
 + Fulfill your roles and responsibilities within the project.
 
+## Tech Stack
++ Frontend: HTML, CSS, JavaScript (React or similar framework)
++ Version Control: Git and GitHub
++ Design Tools: Figma for UI/UX design
 
 # UI/UX Design Planning
 ## Design Goals
