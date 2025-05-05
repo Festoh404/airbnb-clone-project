@@ -60,11 +60,11 @@ are critical for success.
 ### Planned Components
 1. Navbar
 
-Logo
-Search bar
-User navigation
-Responsive menu
-Property Card
+> + Logo
+> + Search bar
+> + User navigation
+> + Responsive menu
+> + Property Card
 
 Property image
 Basic details (price, location, rating)
