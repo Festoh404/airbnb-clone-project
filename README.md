@@ -9,7 +9,7 @@ A full-stack clone of the popular accommodation booking platform AirBnB. The goa
 
 ## Tech Stack
 + Frontend: React with TypeScript, Next.js for server-side rendering and static site generation, TailwindCSS for styling.
-+ Backend: Python, Django, and MySQL (for illustration purposes; the backend is not the primary focus).
++ Backend: Python, Django, and MySQL.
 + Other Tools: Redux or Context API for state management, REST for API integration, Jest for testing.
 
 # UI/UX Design Planning
